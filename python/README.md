@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-
+- Steve N.
 ## Language: `Python`
 
 ### Folder and Challenge Setup
